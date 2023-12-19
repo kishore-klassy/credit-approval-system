@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./credit_aproval_system"
+    ]
+}
